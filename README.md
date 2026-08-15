@@ -86,7 +86,7 @@ DeepFER-Emotion-Recognition/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/YOUR_USERNAME/DeepFER-Emotion-Recognition.git
 cd DeepFER-Emotion-Recognition
 ```
 
