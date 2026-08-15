@@ -172,3 +172,7 @@ The model may be affected by lighting, camera angle, image quality, facial occlu
 
 **Aniket Kapgate**
 B.Tech Computer Science and Engineering — Artificial Intelligence and Machine Learning
+
+## Live Demo
+
+[Launch the DeepFER Web App](https://bnpciywjpjnkbp8yaezgaf.streamlit.app)
